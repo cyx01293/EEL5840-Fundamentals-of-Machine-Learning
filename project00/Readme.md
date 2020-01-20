@@ -12,4 +12,4 @@ from sklearn.datasets import make_moons, make_circles, make_classification
 from sklearn import neighbors
 import imageio
 
-The problem statment can be seen [here](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project00/project_00.pdf) and the report [here.](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project00/project00_report.pdf)
+The problem statement can be seen [here](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project00/project_00.pdf) and the report [here.](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project00/project00_report.pdf)

@@ -24,4 +24,4 @@ torch, PIL, sklearn
 **3.** all test files can be run directly    
 **4.** out.npy is the predicted labels    
 
-The problem statement can be seen [here](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project01/project1.pdf) and the report [here.](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project00/Project01_report.pdf)
+The problem statement can be seen [here](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project01/project1.pdf) and the report [here.](https://github.com/cyx01293/EEL5840-Fundamentals-of-Machine-Learning/blob/master/project01/Project01_report.pdf)

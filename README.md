@@ -1,1 +1,0 @@
-# Handwritten-Character-Recognition
